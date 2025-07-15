@@ -10,7 +10,6 @@ import sklearn.metrics, sklearn.linear_model
 import time
 import xarray as xr
 
-
 class EnsoModel():
     def __init__(self):
         self.dataset_begin = '1980-01-01'
